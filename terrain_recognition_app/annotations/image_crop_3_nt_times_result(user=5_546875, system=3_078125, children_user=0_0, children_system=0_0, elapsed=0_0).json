@@ -1,0 +1,47 @@
+{
+  "image": "image_crop_3_nt_times_result(user=5_546875, system=3_078125, children_user=0_0, children_system=0_0, elapsed=0_0).png",
+  "polygons": [
+    {
+      "points": [
+        [
+          258,
+          172
+        ],
+        [
+          433,
+          187
+        ],
+        [
+          341,
+          275
+        ],
+        [
+          257,
+          171
+        ],
+        [
+          259,
+          172
+        ],
+        [
+          319,
+          130
+        ],
+        [
+          262,
+          174
+        ],
+        [
+          268,
+          167
+        ],
+        [
+          263,
+          167
+        ]
+      ],
+      "label": "1",
+      "color": "#ffffff"
+    }
+  ]
+}

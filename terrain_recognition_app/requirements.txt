@@ -1,0 +1,7 @@
+PyQt5>=5.15.0
+numpy>=1.19.0
+Pillow>=7.0.0
+# GDAL 是可选的，用于增强 GeoTIFF 图像处理能力
+# 请按照以下方式安装 GDAL:
+# Windows: 使用 OSGeo4W 安装程序或 conda install -c conda-forge gdal
+# Linux/Mac: pip install GDAL==<version> (需要先安装系统级依赖)
